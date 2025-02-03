@@ -32,7 +32,7 @@
 - Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
 - Built secure authentication for users and instructors with JWT and cookies
 
-### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem)
+### 🛠️ [User Management System](https://github.com/dumbresi/UserManagemenentSystem)
 - Built a secure, scalable, and automated solution to handle user authentication, profile management, and data integrity while minimizing manual intervention
 - Automated CI/CD workflows and leveraged **AWS** for scalable deployment  
 
