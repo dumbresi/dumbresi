@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Siddharth Dumbre
 
 🎓 **Graduate Student** in Computer Software Engineering at Northeastern University   
-💻 Passionate about developing scalable solutions in **Android Development**, **Web Development**, and **Cloud Computing**
+💻 Passionate about developing scalable solutions in **Full Stack Development**, **Android Development**, and **Cloud Infrastructure**
 
 ---
 
@@ -20,7 +20,7 @@
 
 - **Languages:** Java, Python, JavaScript, Go, Kotlin, HTML, CSS  
 - **Frameworks & Tools:** React, Node.js, Express.js, Mongoose, REST APIs, Terraform, AWS  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Development Practices:** Agile, CI/CD, TDD, SDLC, Unit & Integration Testing  
 
 ---
@@ -28,18 +28,17 @@
 ## 🌟 Featured Projects
 
 ### 🚀 [Learning Management System Website](https://github.com/dumbresi/KnowledgeForge)
-- Developed a full-stack LMS using the **MERN stack** following MVC architecture
-- Built secure authentication with JWT and cookies  
-- Optimized storage and server-client communication with **MongoDB** and **Express.js**
+- Empowering education with a smart, intuitive LMS that simplifies learning, enhances engagement, and streamlines course management
+- Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
+- Built secure authentication for users and instructors with JWT and cookies
 
 ### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem)
-- Built RESTful APIs in **Go** with secure authentication and password hashing  
+- Built a secure, scalable, and automated solution to handle user authentication, profile management, and data integrity while minimizing manual intervention
 - Automated CI/CD workflows and leveraged **AWS** for scalable deployment  
 
 ### 📱 [Career Guidance Android App](https://github.com/dumbresi/CareerGuidanceApp)
-- Tailored career recommendations for users via a modular MVVM architecture  
-- Designed an engaging UI with **Jetpack Compose** and implemented data handling with **Kotlin**
-
+- A centralized career guidance application to help students explore 150 career options from schooling up to graduation 
+- Designed engaging  and intuitive User Interfaces with MVVM architecture
 
 
 ---
