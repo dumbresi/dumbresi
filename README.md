@@ -48,3 +48,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dumbre)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://dumbresi.wixsite.com/siddumbre)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dumbresi)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dumbresi&color=blue)
+
