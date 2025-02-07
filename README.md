@@ -24,15 +24,15 @@
 ---
 
 ## 🌟 Featured Projects  
-### 🚀 Learning Management System (MERN Stack)  
+### 🚀 [Learning Management System Website](https://github.com/dumbresi/KnowledgeForge)
 - Developed a full-stack LMS for interactive learning with **secure authentication** using **JWT & cookies**  
 - Follows **MVC architecture** for scalability & maintainability  
 
-### 🛠️ User Management System  
+### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem) 
 - Built a **secure, scalable** solution for user authentication & profile management  
 - Automated **CI/CD workflows** and deployed using **AWS**  
 
-### 📱 Career Guidance Android App (MVVM Architecture)  
+### 📱 [Career Guidance Android App](https://github.com/dumbresi/CareerGuidanceApp)
 - Designed an intuitive **career guidance platform** to explore 150+ career paths  
 - Built a **responsive UI** with **Jetpack Compose** & **Kotlin**  
 
