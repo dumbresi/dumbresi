@@ -1,6 +1,6 @@
 ## ⚡ About Me  
 👋 Hi, I'm **Siddharth Dumbre**, a **Graduate Student in Computer Software Engineering at Northeastern University**.  
-💻 Passionate about **Full Stack Development, Android Development, Cloud Infrastructure, and Generative AI**.  
+💻 Passionate about **Full Stack Development,  Infrastructure, and Generative AI**.  
 🚀 Currently working on **Generative AI with RAG and GAN** while actively building projects and expanding my knowledge.  
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## 🚀 What I'm Up To  
-- Actively **building projects** and contributing to open-source  
+- Actively **building projects** and solving real-world problems 
 - Learning and experimenting with **Generative AI, Cloud Infra, and System Design** 
 
 ---
