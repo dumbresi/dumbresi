@@ -1,7 +1,7 @@
 ## ⚡ About Me  
 👋 Hi, I'm **Siddharth Dumbre**, a **Graduate Student in Computer Software Engineering at Northeastern University**.  
 💻 Passionate about **Full Stack Development,  Infrastructure, and Generative AI**.  
-🚀 Currently working on **Generative AI with RAG and GAN** while actively building projects and expanding my knowledge.  
+🚀 Currently working on **integrating generative AI solutions into software applications** while actively building projects and expanding my knowledge.
 
 ---
 
@@ -9,7 +9,8 @@
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)  
  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
+
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
@@ -35,7 +36,11 @@
 
 ### 📱 [Career Guidance Android App](https://github.com/dumbresi/CareerGuidanceApp)
 - Designed an intuitive **career guidance platform** for students to explore 150+ career paths  
-- Built a **responsive UI** with **Jetpack Compose** & **Kotlin**  
+- Built a **responsive UI** with **Jetpack Compose** & **Kotlin**
+
+### 🐱 [Chatbot for Catshelter to assist in Adoption & Volunteering](https://catbot-amber.vercel.app/)  
+- Developed a **RAG-powered chatbot** using **Voiceflow** to assist with real-time adoption and volunteer opportunities for a cat shelter  
+- Automated FAQs, improving **user engagement** and increasing adoption inquiries 
 
 ---
 
