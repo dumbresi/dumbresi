@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Languages and Technologies I have worked on
+### 🚀 Languages and Technologies I have used for development
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)  
  
@@ -30,17 +30,17 @@
 - Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
 - Built secure authentication for users and instructors with JWT and cookies 
 
-### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem) 
-- Built a **secure, scalable** solution for user authentication & profile management  
-- Automated **CI/CD workflows** and deployed using **AWS**  
-
 ### 📱 [Career Guidance Android App](https://github.com/dumbresi/CareerGuidanceApp)
 - Designed an intuitive **career guidance platform** for students to explore 150+ career paths  
 - Built a **responsive UI** with **Jetpack Compose** & **Kotlin**
 
 ### 🐱 [Chatbot for Catshelter to assist in Adoption & Volunteering](https://catbot-amber.vercel.app/)  
-- Developed a **RAG-powered chatbot** using **Voiceflow** to assist with real-time adoption and volunteer opportunities for a cat shelter  
-- Automated FAQs, improving **user engagement** and increasing adoption inquiries 
+- Developed a **RAG-powered chatbot** using **Voiceflow** to assist users with real-time cat adoption and volunteer opportunities for a cat shelter  
+- Developed REST API along with web images scrapping in real time to answer user queries
+
+### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem) 
+- Built a **secure, scalable** solution for user authentication & profile management  
+- Automated **CI/CD workflows** and deployed using **AWS**  
 
 ---
 
