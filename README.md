@@ -30,10 +30,6 @@
 - Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
 - Built secure authentication for users and instructors with JWT and cookies 
 
-### 📱 [Career Guidance Android App](https://github.com/dumbresi/CareerGuidanceApp)
-- Designed an intuitive **career guidance platform** for students to explore 150+ career paths  
-- Built a **responsive UI** with **Jetpack Compose** & **Kotlin**
-
 ### 🐱 [Chatbot for Catshelter to assist in Adoption & Volunteering](https://catbot-amber.vercel.app/)  
 - Developed a **RAG-powered chatbot** using **Voiceflow** to assist users with real-time cat adoption and volunteer opportunities for a cat shelter  
 - Developed REST API along with web images scrapping in real time to answer user queries
