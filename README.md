@@ -30,9 +30,9 @@
 - Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
 - Built secure authentication for users and instructors with JWT and cookies 
 
-### 🐱 [Chatbot for Catshelter to assist in Adoption & Volunteering](https://catbot-amber.vercel.app/)  
-- Developed a **RAG-powered chatbot** using **Voiceflow** to assist users with real-time cat adoption and volunteer opportunities for a cat shelter  
-- Developed REST API along with web images scrapping in real time to answer user queries
+### 🎨 [Prompt-to-Image Generation with LoRA](https://github.com/dumbresi/PromptToImage)  
+- Built a **domain-specific text-to-image generation system** using Stable Diffusion v1.5 fine-tuned with **LoRA adapters**, reducing model size to just **5MB**  
+- Deployed a full-stack application with **FastAPI** backend and **Streamlit** frontend for real-time prompt-to-image generation, with CLIPScore-based evaluation
 
 ### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem) 
 - Built a **secure, scalable** solution for user authentication & profile management  
