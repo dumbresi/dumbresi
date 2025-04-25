@@ -28,15 +28,23 @@
 ### 🚀 [Learning Management System Website](https://github.com/dumbresi/KnowledgeForge)
 - Empowering education with a smart, intuitive LMS that simplifies learning, enhances engagement, and streamlines course management
 - Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
-- Built secure authentication for users and instructors with JWT and cookies 
-
-### 🎨 [Prompt-to-Image Generation with LoRA](https://github.com/dumbresi/PromptToImage)  
-- Built a **domain-specific text-to-image generation system** using Stable Diffusion v1.5 fine-tuned with **LoRA adapters**, reducing model size to just **5MB**  
-- Deployed a full-stack application with **FastAPI** backend and **Streamlit** frontend for real-time prompt-to-image generation, with CLIPScore-based evaluation
+- Built secure authentication for users and instructors with JWT and cookies
 
 ### 🛠️ [User Management System API](https://github.com/dumbresi/UserManagemenentSystem) 
-- Built a **secure, scalable** solution for user authentication & profile management  
-- Automated **CI/CD workflows** and deployed using **AWS**  
+- Developed a **secure, scalable** user authentication and profile management system for web applications. 
+- Integrated **CI/CD pipelines** and deployed using **AWS** for robust infrastructure and security.
+
+### 🚀 [Prompt-to-SQL LLM Fine-Tuning](https://github.com/dumbresi/prompt-to-SQL-LLM)
+- Fine-tuned a **1B parameter LLaMA** and a **1.5B parameter DeepSeek** model for SQL query generation using a specialized dataset.
+- Compared the performance of both models using metrics like BLEU score and execution correctness for SQL queries.
+
+### 🛠️ [Terraform AWS Infrastructure](https://github.com/dumbresi/terraform-aws-infra)
+- Developed a robust AWS infrastructure using **Terraform** to provision resources like EC2, RDS, S3, and Route 53.
+- Automated the deployment process with CI/CD workflows, ensuring scalability and security for the user management API.
+
+### 🎨 [Prompt-to-Image Generation with LoRA](https://github.com/dumbresi/PromptToImage)  
+- Built a **domain-specific text-to-image generation system** using Stable Diffusion v1.5 fine-tuned with **LoRA adapters** 
+- Deployed a full-stack application with **FastAPI** backend and **Streamlit** frontend for real-time prompt-to-image generation, with CLIPScore-based evaluation
 
 ---
 
