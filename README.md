@@ -1,5 +1,5 @@
 ## ⚡ About Me  
-👋 Hi, I'm **Siddharth Dumbre**, a **Graduate Student in Computer Software Engineering at Northeastern University**.  
+👋 Hi, I'm **Siddharth Dumbre**, a **Recent Graduate Student from Northeastern University**.  
 💻 Passionate about **Full Stack Development,  Infrastructure, and Generative AI**.  
 🚀 Currently working on **integrating generative AI solutions into software applications** while actively building projects and expanding my knowledge.
 
@@ -56,7 +56,7 @@
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dumbre)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://dumbresi.wixsite.com/siddumbre)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)][(https://siddharth-nine.vercel.app)])  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dumbresi)  
 
 ---
