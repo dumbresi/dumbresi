@@ -30,7 +30,7 @@
 - Developed a full-stack LMS using the **MERN stack** following **MVC architecture**
 - Built secure authentication for users and instructors with JWT and cookies
 
-### 🚀 [MapMyStay- AI powered Airbnb Platform](https://github.com/dumbresi/KnowledgeForge)
+### 🚀 [MapMyStay- AI powered Airbnb Platform](https://github.com/dumbresi/MapMyStay)
 - AI-powered room discovery app that lets users find listings using natural language queries
 - Features include- **LLM Based Search** and **Google Maps Integration** to find rooms as per user needs(near restraunts, hospitals)
 - Built with Mistral LLM, FastAPI, Node.js, PostgreSQL, and a Next.js frontend
